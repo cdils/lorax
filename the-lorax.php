@@ -8,10 +8,10 @@
  * @copyright
  *
  * Plugin Name:       The Lorax
- * Plugin URI:
+ * Plugin URI:		  https://github.com/cdils/the-lorax
  * Description:		  Settings page for the Lorax reader
  * Version:           0.0.1
- * Author:            ATX
+ * Author:            Carrie Dils, Raymond Johnson, Pat Ramsey
  * Author URI:
  * Text Domain:       the-lorax
  * License:           GPL-2.0+
